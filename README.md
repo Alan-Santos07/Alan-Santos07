@@ -6,7 +6,7 @@ Oii, Tenho 18 anos e estudo programação desde 2019, sou um desenvolvedor front
  <br>
 
 - 📚 **Estou aprendendo muito sobre a biblioteca React**
--  🎨 **Sou apaixonado por artes -m**
+- 🎨 **Sou apaixonado por artes**
 - 🐋 **Sou um desenvolvedor front-end e web designer**
 - 🤔 **Fato Curioso : Meu animal preferido são as baleias**
 <hr>
