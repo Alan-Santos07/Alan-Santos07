@@ -1,6 +1,6 @@
  # <div align="center"> Olá! Eu sou sou o Alan 😉 </div>
 <div align="justify">
-Oii, Tenho 18 anos e estudo programação desde 2019, sou um desenvolvedor front-end com muitos conhecimentos em web design, gosto de sempre lutar para superar os novos desafios e de aprender coisas novas!
+Oii, Tenho 19 anos e estudo programação desde 2019, sou um desenvolvedor front-end com muitos conhecimentos em web design, gosto de sempre lutar para superar os novos desafios e de aprender coisas novas!
 
 </div>
  <br>
